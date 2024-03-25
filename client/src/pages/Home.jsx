@@ -42,9 +42,9 @@ const Home = () => {
                         </motion.div>
                         <motion.div {...headContentAnimation} className='flex flex-col gap-5'>
                             <p className='max-w-md font-normal text-gray-600 text-base'>
-                            Experience the ultimate freedom of creativity with our cutting-edge 
-                            3D customization tool. Design your one-of-a-kind shirt and unleash 
-                            your own style like never before. <strong>Embrace individuality
+                            Design your one-of-a-kind shirt and unleash 
+                            your own style like never before with our new 
+                            3D customization tool. <strong>Embrace individuality
                             </strong>{" "} with a garment that truly 
                             reflects your personality.
                             </p>
