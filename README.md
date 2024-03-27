@@ -13,7 +13,7 @@ This project allows users to customize a 3D shirt by changing its color, uploadi
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 2. Cd your-repository
 3. Npm install
 4. Npm run dev
