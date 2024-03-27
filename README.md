@@ -7,6 +7,7 @@ This project allows users to customize a 3D shirt by changing its color, uploadi
 - **Color Customization**: Users can change the color of the shirt using a color picker.
 - **Logo/Texture Upload**: Users can upload their own custom logos or textures to be applied to the shirt.
 - **AI Design Generation**: Utilizing OpenAI, users can generate logos or textures for the shirt based on prompts they provide.
+- **Three.js Integration**: The 3D shirt customization is implemented using Three.js, a popular JavaScript library for creating 3D graphics in web applications.
 - **Built with Modern Web Technologies**: The project is built using React for the frontend, Vite for fast development, Tailwind CSS for styling, and Express for the backend.
 
 ## Getting Started
